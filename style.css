@@ -1,0 +1,43 @@
+.imgFondo{ 
+
+   background-image: url(../assets/ba1.jjpg.jpg);
+   height: 100vh;
+   background-blend-mode: soft-light;
+   background-color: gray;
+}
+
+.imgSec{
+height: 100%;
+width: 100%;
+display: flex;
+}
+
+
+.cols{
+margin: 5%;
+
+}
+
+.card-body{
+ margin: 2%;
+ padding: 2%;
+
+}
+
+h4{
+ margin-right: 150px;
+ margin-left: 140px;
+ padding-top: 70px;
+ text-align: center;
+}
+
+@media (min-width: 768px) and (max-width: 1023px){
+  .main{
+
+    font-size: 8rem;
+    padding-left: 3rem;
+    margin-block-end: 5rem;
+  }
+
+}
+    
