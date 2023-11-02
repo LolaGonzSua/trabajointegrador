@@ -1,0 +1,142 @@
+.desc{
+ 
+    margin-top: 30px;
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    
+    justify-content: center
+}
+ 
+.estud{
+   text-align: center;
+   margin: 30px;
+}
+
+.descuento{
+   padding: 5px
+   
+}
+
+.porc{
+padding: 5px;
+margin-left: 50px;
+    
+}
+
+.footerDoc{
+    margin-left: 20px;
+
+}
+
+.Trainee{
+    text-align: center;
+    margin: 30px;
+    
+}
+
+.descT{
+    
+    padding: 5px;
+}
+
+.porciento{
+    margin-left: 50px;
+    padding: 5px;
+}
+
+.presentDoc{
+    
+    margin-left: 20px;
+}
+
+.Junior{
+   
+    text-align: center;
+    margin: 30px;
+}
+
+.descJ{
+    
+    padding: 5px;
+}
+
+.porcJ{
+    padding: 5px;
+    margin-left: 50px;
+}
+
+.documentJ{
+    margin-left: 20px;
+    
+}
+
+.venta{
+margin-top: 0px;
+text-align: center;
+}
+
+.h1{
+ text-align: center;
+   
+}
+
+.Form{
+    margin-inline: 65px;
+    padding: 20px;
+   
+}
+
+.correo{
+   margin-top: 12px;
+}
+
+.FormF{
+    margin-inline: 80px
+    ;
+}
+
+.Pagar{
+    
+    margin-top: 12px;
+   width: 87%;
+   padding-right: 65px;
+   padding-left: 40px;
+   margin-inline: 45px;
+
+    
+}
+
+.Borrar  {
+    background-color: #9acd32;
+    width: 70vh;
+}
+
+.Resumen{
+    background-color: #9acd32;
+    width: 70vh;
+    margin-left: 50px;
+    
+}
+
+.Btns{
+  margin-left: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+    background-color: darkcyan;
+    height: 4em;
+    margin-top: 5em;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    }
+    .aet {
+      text-decoration: none;
+      width: 1.5em;
+      height: 1.5em;
+     margin: 5px;
+  }
+  
