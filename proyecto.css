@@ -1,0 +1,79 @@
+.nav{
+display: flex;
+flex-wrap: nowrap;
+align-items: center;
+margin: 0px;
+padding: 0px;
+
+}
+.img{
+    border-radius: 50%;
+}
+.form{
+margin-left: 60%
+
+}
+.slogan{
+font-size: large;
+font-weight: 100;
+margin-left: 5px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+ 
+}
+.lin{
+    text-decoration:none ;
+    font-size: large;
+    font-weight: 200;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 20px;
+}
+.link{
+text-decoration: none;
+font-size: large;
+font-weight: 200;
+color: black;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-left: 15px;
+}
+.li{
+    text-decoration: none;
+    font-size: large;
+    font-weight: 200;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-left: 15px;
+}
+.search{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 5px;
+    
+}
+.button{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    width: 90px;
+    border-radius: 5px;
+  
+
+}
+.section{
+    width: 90%;
+    margin: 0 auto;
+    padding: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+.imag{
+    width: 500px;
+    height: 600px;
+    aspect-ratio: 3/2;
+    flex-grow: 1;
+}
+.box{
+    background-image: url(./ejemplo/Bootstrap/assets/background.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
